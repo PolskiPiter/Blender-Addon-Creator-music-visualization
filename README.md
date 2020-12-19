@@ -9,6 +9,7 @@
 ## Description
 
 
+
 # Language: Polish
 ## Podstawowe informacje
 - Wersja addona: 1.0.0
@@ -16,5 +17,5 @@
 - Lokalizacja: ' View3D > UI '
 
 ## Opis
-
+'Creator Music Visualization' jest addonem do Blendera, który umożliwia użytkownikowi wygenerowanie prostej wizualizacji muzyki
 
