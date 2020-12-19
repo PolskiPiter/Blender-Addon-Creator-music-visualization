@@ -1,5 +1,5 @@
 # Blender addon: Creator Music Visualization
-$bg-green
+#28a745, $bg-green
 ## Descirption
 
 
