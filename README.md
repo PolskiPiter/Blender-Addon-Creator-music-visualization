@@ -29,7 +29,16 @@ Works only on the Windows version of the Blender.
 ### Obrazki
 
 ## Description visualization
-babla 
+The visualization of music created by the addon consists of the object that has the form of a three-dimensional sphere with four particle emitters. Each emitter supports one of the four frequency ranges: 0-250Hz, 250-500Hz, 500-750Hz, 750-1000Hz. The ball rotates in one axis and at the same time gently swings in the other axis. At the same time, it releases particles that fade or glow and become smaller/bigger by the sounds of music. Also the colors on the object change under the influence of music.
+
+### Obrazek
+
+In the middle of the music there is a change in the direction of the ball's rotation and mirrors appear
+
+### Obrazek
+
+The visualization also has an ending and changes in the camera position. 
+
 
 # Language: Polish
 ## Podstawowe informacje
