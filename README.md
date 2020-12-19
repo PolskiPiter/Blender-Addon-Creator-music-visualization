@@ -1,5 +1,5 @@
 # Blender addon: Creator Music Visualization
-[TOC]
+
 
 # Language: English
 ## Descirption
@@ -12,4 +12,5 @@
 - Wersja addona: 1.0.0
 - Wersja Blendera: 2.91.0
 - Lokalizacja: ' View3D > UI '
+[TOC]
 
