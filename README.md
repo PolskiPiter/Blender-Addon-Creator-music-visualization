@@ -16,7 +16,6 @@ Works only on the Windows version of the Blender.
 3. Select the "Install" button and we find the file "VMAddony.py".
 4. after installing the file, select addon 'Tools: Creator Music Visualization' as active
 
-![alt text](https://github.com/PolskiPiter/Blender_Addon_Music_Visualization/blob/main/Images/Blender_install_addon.PNG?raw=true)
 ![alt text](https://github.com/PolskiPiter/Blender_Addon_Music_Visualization/blob/main/Images/Blender_install_addon_shortcut.PNG?raw=true)
 
 ## Features in the Blender UI
