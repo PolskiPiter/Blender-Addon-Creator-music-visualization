@@ -17,6 +17,6 @@
 - Lokalizacja: ' View3D > UI '
 
 ## Opis
-'Creator Music Visualization' jest prostym narzędziem, który pozwala użytkownikowi
-wygenerowanie prostej wizualizacji do muzyki w formacie MP3.
+'Creator Music Visualization' jest prostym narzędziem, który pozwala użytkownikowi wygenerowanie wizualizacji do muzyki w formacie MP3.\
+Korzysta
 
