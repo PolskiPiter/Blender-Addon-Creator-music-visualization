@@ -17,6 +17,7 @@ Works only on the Windows version of the Blender.
 4. after installing the file, select addon 'Tools: Creator Music Visualization' as active
 
 ![alt text](https://github.com/PolskiPiter/Blender_Addon_Music_Visualization/blob/main/Images/Blender_install_addon.PNG?raw=true)
+![alt text](https://github.com/PolskiPiter/Blender_Addon_Music_Visualization/blob/main/Images/Blender_install_addon_shortcut.PNG?raw=true)
 
 ## Features in the Blender UI
 1. The first two fields allow you to specify the location of the MP3 file to be loaded and the place to save our visualization.
@@ -56,7 +57,7 @@ Działa tylko na Blenderze w wersji na systemy Windows.
 3. Wybieramy przycisk 'Install' i szukamy plik 'VMAddony.py'
 4. Po zainstalowaniu pliku zaznaczamy addon 'Tools: Creator Music Visualization' jako aktywny
 
-### Obrazki
+![alt text](https://github.com/PolskiPiter/Blender_Addon_Music_Visualization/blob/main/Images/Blender_install_addon_shortcut.PNG?raw=true)
 
 ## Funkcje w Blender UI
 1. Pierwsze dwa pola umożliwiają podanie lokalizacji pliku MP3 do załadowania oraz miejsce do zapisu naszej wizualizacji.
