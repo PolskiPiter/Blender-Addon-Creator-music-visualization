@@ -8,11 +8,15 @@
 
 ## Description
 'Creator Music Visualization' is a simple tool that allows the user to generate a visualization for selected music in MP3 format.
+Works only on the Windows version of the Blender.
 
 ## Addon instalation
-1. A
-2. B
-3. C
+1. After starting the Blender, go to 'Edit' and select 'Preferences'.
+2. In 'Preferences' we select the 'Add-ons' tab
+3. Select the "Install" button and we find the file "VMAddony.py".
+4. after installing the file, select addon 'Tools: Creator Music Visualization' as active
+
+###Obrazki
 
 ## Features in the Blender UI
 lorem insut
@@ -28,14 +32,22 @@ babla
 
 ## Opis
 'Creator Music Visualization' jest prostym narzędziem, który pozwala użytkownikowi wygenerowanie wizualizacji do wybranej muzyki w formacie MP3.
+Działa tylko na Blenderze w wersji na systemy Windows.
 
 ## Instalacja addona
-1. A
-2. B
-3. C
+1. Po uruchomieniu Blendera wchodzimy do 'Edit' i wybieramy opcje 'Preferences'
+2. W 'Preferences' wybieramy zakładkę 'Add-ons'
+3. Wybieramy przycisk 'Install' i szukamy plik 'VMAddony.py'
+4. Po zainstalowaniu pliku zaznaczamy addon 'Tools: Creator Music Visualization' jako aktywny
+
+###Obrazki
 
 ## Funkcje w Blender UI
-lorem insut
+1. Pierwsze dwa pola umożliwiają podanie lokalizacji pliku MP3 do załadowania oraz miejsce do zapisu naszej wizualizacji
+2. Trzecie pole to służy do zaimportowania pliku 'COWM.obj' z obiektem do wizualizacji. Jest on konieczny do wygenerowania wizualizacji. Plik 'COWM.obj' znajduję się w folderze z plikiem 'VMAddony.py'
+3. Czwarte pole umożliwia nadanie nazwy pliku wideo
+4. Trzy kolejne opcje pozwalają na modyfikacje elementów występujących w wizualizacji po przez zmianę kolorów.
+5.
 
 ## Opis wizualizacji
 babla 
