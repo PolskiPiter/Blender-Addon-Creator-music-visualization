@@ -1,5 +1,21 @@
 # Blender addon: Creator Music Visualization
 
+
+- [Language: English](#language--english)
+  * [Basic information](#basic-information)
+  * [Description](#description)
+  * [Addon instalation](#addon-instalation)
+  * [Features in the Blender UI](#features-in-the-blender-ui)
+  * [Description visualization](#description-visualization)
+- [Language: Polish](#language--polish)
+  * [Podstawowe informacje](#podstawowe-informacje)
+  * [Opis](#opis)
+  * [Instalacja addona](#instalacja-addona)
+  * [Funkcje w Blender UI](#funkcje-w-blender-ui)
+  * [Opis wizualizacji](#opis-wizualizacji)
+
+
+
 # Language: English
 ## Basic information
 - Addon version: 1.0.0
