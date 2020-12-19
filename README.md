@@ -1,5 +1,4 @@
 # Blender addon: Creator Music Visualization
-[TOC]
 
 # Language: English
 ## Descirption
