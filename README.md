@@ -19,11 +19,12 @@ Works only on the Windows version of the Blender.
 ###Obrazki
 
 ## Features in the Blender UI
-1. The first two fields allow you to specify the location of the MP3 file to be loaded and the place to save our visualization
+1. The first two fields allow you to specify the location of the MP3 file to be loaded and the place to save our visualization.
 2. The third field is used to import a 'COWM.obj' file with an object for visualization. It is necessary to generate the visualization. The 'COWM.obj' file is located in the folder with the 'VMAddony.py' file.
-3. The fourth field allows you to name the video file
+3. The fourth field allows you to name the video file.
 4. The three further options allow you to modify elements occurring in the visualization by changing colors.
 5. The other options allow you to specify video resolution, quality and frame rate. In case the user knows what is the sampling rate of the MP3 file can change it.
+6. After pressing the 'RENDER VISUALIZATION' button, a console appears, which is used to inform about the current state of preparation for rendering and the progress of visualization generation.
 
 ###Obrazki
 
@@ -49,11 +50,12 @@ Działa tylko na Blenderze w wersji na systemy Windows.
 ###Obrazki
 
 ## Funkcje w Blender UI
-1. Pierwsze dwa pola umożliwiają podanie lokalizacji pliku MP3 do załadowania oraz miejsce do zapisu naszej wizualizacji
-2. Trzecie pole to służy do zaimportowania pliku 'COWM.obj' z obiektem do wizualizacji. Jest on konieczny do wygenerowania wizualizacji. Plik 'COWM.obj' znajduję się w folderze z plikiem 'VMAddony.py'
-3. Czwarte pole umożliwia nadanie nazwy pliku wideo
+1. Pierwsze dwa pola umożliwiają podanie lokalizacji pliku MP3 do załadowania oraz miejsce do zapisu naszej wizualizacji.
+2. Trzecie pole to służy do zaimportowania pliku 'COWM.obj' z obiektem do wizualizacji. Jest on konieczny do wygenerowania wizualizacji. Plik 'COWM.obj' znajduję się w folderze z plikiem 'VMAddony.py'.
+3. Czwarte pole umożliwia nadanie nazwy pliku wideo.
 4. Trzy kolejne opcje pozwalają na modyfikacje elementów występujących w wizualizacji po przez zmianę kolorów.
 5. Pozostałe opcje umożliwiają podanie rozdzielczości wideo, jakość i liczbę klatek na sekundę. Przypadku, gdy użytkownik wie jaka jest częstotliwość próbkowania pliku MP3 może ją zmienić.
+6. Po wciśnięciu przycisku 'RENDER VISUALIZATION' pojawia się konsola, która służy do informowania o obecnym stanie przygotowania do renderingu i postępach generowania wizualizacji.
 
 ###Obrazki
 
