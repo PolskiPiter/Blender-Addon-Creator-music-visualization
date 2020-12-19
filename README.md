@@ -16,7 +16,7 @@ Works only on the Windows version of the Blender.
 3. Select the "Install" button and we find the file "VMAddony.py".
 4. after installing the file, select addon 'Tools: Creator Music Visualization' as active
 
-###Obrazki
+### Obrazki
 
 ## Features in the Blender UI
 1. The first two fields allow you to specify the location of the MP3 file to be loaded and the place to save our visualization.
@@ -24,9 +24,9 @@ Works only on the Windows version of the Blender.
 3. The fourth field allows you to name the video file.
 4. The three further options allow you to modify elements occurring in the visualization by changing colors.
 5. The other options allow you to specify video resolution, quality and frame rate. In case the user knows what is the sampling rate of the MP3 file can change it.
-6. After pressing the 'RENDER VISUALIZATION' button, a console appears, which is used to inform about the current state of preparation for rendering and the progress of visualization generation.
+6. After pressing the 'RENDER VISUALIZATION' button, a console appears, which is used to inform about the current state of preparation for rendering and the progress of visualization generation. Generation duration depends on the equipment, length of music (I recommend songs longer or equal to 1 minute) and selected parameters by the user.
 
-###Obrazki
+### Obrazki
 
 ## Description visualization
 babla 
@@ -47,7 +47,7 @@ Działa tylko na Blenderze w wersji na systemy Windows.
 3. Wybieramy przycisk 'Install' i szukamy plik 'VMAddony.py'
 4. Po zainstalowaniu pliku zaznaczamy addon 'Tools: Creator Music Visualization' jako aktywny
 
-###Obrazki
+### Obrazki
 
 ## Funkcje w Blender UI
 1. Pierwsze dwa pola umożliwiają podanie lokalizacji pliku MP3 do załadowania oraz miejsce do zapisu naszej wizualizacji.
@@ -55,9 +55,17 @@ Działa tylko na Blenderze w wersji na systemy Windows.
 3. Czwarte pole umożliwia nadanie nazwy pliku wideo.
 4. Trzy kolejne opcje pozwalają na modyfikacje elementów występujących w wizualizacji po przez zmianę kolorów.
 5. Pozostałe opcje umożliwiają podanie rozdzielczości wideo, jakość i liczbę klatek na sekundę. Przypadku, gdy użytkownik wie jaka jest częstotliwość próbkowania pliku MP3 może ją zmienić.
-6. Po wciśnięciu przycisku 'RENDER VISUALIZATION' pojawia się konsola, która służy do informowania o obecnym stanie przygotowania do renderingu i postępach generowania wizualizacji.
+6. Po wciśnięciu przycisku 'RENDER VISUALIZATION' pojawia się konsola, która służy do informowania o obecnym stanie przygotowania do renderingu i postępach generowania wizualizacji. Czas trwania generowania zależy od sprzętu, długości muzyki (zalecam dłuższe bądź równe 1 minutę utwory) oraz wybranych parametrów przez użytkownika
 
-###Obrazki
+### Obrazki
 
 ## Opis wizualizacji
-babla 
+Wizualizacja muzyki powstała dzięki addonowi składa się z obiektu, która ma postać trójwymiarowej kuli z czterema emiterami cząstek. Każdy emiter obsługuje jeden z czterech zakresów częstotliwości: 0-250Hz, 250-500Hz, 500-750Hz, 750-1000Hz. Kula obraca się w jednej osi i równocześnie delikatnie się wychyla w drugiej osi. W tym sam czasie wypuszcza cząstki, które gasną/zapają się oraz zmiejszają się/zwiększają się pod wpływem dźwięków z muzyki. Również kolory na obiekcie ulegają zmianą pod wpływem muzyki.
+
+### Obrazek
+
+W połowie muzyki następuje twist w postaci pojawienia się luster. Dodatkowo obiekt zmienia kierunek obrotu w drugą stronę.
+
+### Obrazek
+
+Wizualizacja posiada także zakończenie i zmiany w położeniu kamery. 
