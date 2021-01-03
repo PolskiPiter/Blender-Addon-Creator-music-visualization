@@ -87,7 +87,7 @@ Działa tylko na Blenderze w wersji na systemy Windows.
 ![alt text](https://github.com/PolskiPiter/Blender_Addon_Music_Visualization/blob/main/Images/Blender_console.PNG?raw=true)
 
 ## Opis wizualizacji
-Wizualizacja muzyki powstała dzięki addonowi składa się z obiektu, która ma postać trójwymiarowej kuli z czterema emiterami cząstek. Każdy emiter obsługuje jeden z czterech zakresów częstotliwości: 0-250Hz, 250-500Hz, 500-750Hz, 750-1000Hz. Kula obraca się w jednej osi i równocześnie delikatnie się wychyla w drugiej osi. W tym sam czasie wypuszcza cząstki, które gasną/zapają się oraz zmiejszają się/zwiększają się pod wpływem dźwięków z muzyki. Również kolory na obiekcie ulegają zmianą pod wpływem muzyki.
+Wizualizacja muzyki powstała dzięki addonowi składa się z obiektu, która ma postać trójwymiarowej kuli z czterema emiterami cząstek. Każdy emiter obsługuje jeden z czterech zakresów częstotliwości: 0-250Hz, 250-500Hz, 500-750Hz, 750-1000Hz. Kula obraca się w jednej osi i równocześnie delikatnie się wychyla w drugiej osi. W tym sam czasie wypuszcza cząstki, które gasną/zapalają się oraz zmiejszają się/zwiększają się pod wpływem dźwięków z muzyki. Również kolory na obiekcie ulegają zmianą pod wpływem muzyki.
 
 ![alt text](https://github.com/PolskiPiter/Blender_Addon_Music_Visualization/blob/main/Images/Blender_MV.PNG?raw=true)
 
