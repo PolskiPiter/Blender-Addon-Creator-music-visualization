@@ -97,7 +97,7 @@ Wizualizacja muzyki powstała dzięki addonowi składa się z obiektu, która ma
 
 W połowie muzyki następuje twist w postaci pojawienia się luster. Dodatkowo obiekt zmienia kierunek obrotu w drugą stronę.
 
-![BRAK OBRAZKA !](https://github.com/PolskiPiter/Blender_Addon_Music_Visualization/blob/main/Images/Blende_MV2.PNG?raw=true)
+![BRAK OBRAZKA !](https://github.com/PolskiPiter/Blender_Addon_Music_Visualization/blob/main/Images/Blender_MV2.PNG?raw=true)
 
 Wizualizacja posiada także zakończenie i zmiany w położeniu kamery. 
 
